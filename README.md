@@ -1,6 +1,6 @@
 # recipe-organizer
 
 ## Overview
-Recipe storage app
+Recipe storage app yuorc
 
 
